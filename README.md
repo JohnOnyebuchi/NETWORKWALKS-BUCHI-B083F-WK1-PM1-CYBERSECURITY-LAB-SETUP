@@ -90,3 +90,29 @@ Additional target machines can be added to the same virtual network in future pr
 
 ---
 
+# 🪜 Lab Setup Procedure
+
+## Step 1. Install 7-Zip
+
+
+**Tool:** 7-Zip
+
+---
+
+## Step 2. Install VirtualBox
+
+VirtualBox was installed as the hypervisor.
+
+---
+
+## Step 3. Create the NAT Network
+
+A NAT Network named cyberlab was created in VirtualBox.
+
+Configuration:
+Network Name: NatNetwork
+IPv4 Prefix:  10.0.0.0/24
+DHCP:         Enabled
+IPv6:         Disabled
+
+![] 
