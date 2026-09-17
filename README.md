@@ -177,10 +177,10 @@ A consistent IP address makes it easier to document the lab and reference the Ka
 
 After completing the initial configuration, a VirtualBox snapshot was created.
 
-Example snapshot name:
+
 
 ```text
-Clean Kali - Network Setup
+Clean Kali - Ethical Hacking Lab
 ```
 
 The snapshot represents the clean baseline of the laboratory.
@@ -188,8 +188,9 @@ The snapshot represents the clean baseline of the laboratory.
 If a future exercise changes or damages the VM configuration, the machine can be restored to this baseline.
 
 
----
+![](5-Screenshot-snapjpeg.jpeg)
 
+---
 # 🔎 Lab Verification
 
 | ✅ Test                        | 🧾 Command                      | 🎯 Expected Result              |
@@ -218,7 +219,7 @@ DNS:
 
 # 🐞 Problems Encountered & Solutions
 
-Documenting problems is an important part of the project.
+
 
 ## Problem 1. Internet Connectivity After Static IP Configuration
 
@@ -310,7 +311,7 @@ This laboratory is intended strictly for education purposes only.
 Sunday John Onyebuchi
 Cybersecurity Professional
 
-LinkedIn:
+LinkedIn:https://www.linkedin.com/in/john-onyebuchi-7324223bb?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
