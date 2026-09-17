@@ -66,4 +66,6 @@ It can be used for activities such as:
 
 ## 🏗️ Lab Architecture
 
-![](
+![](1-Screenshot_Vbox_hp.jpeg)
+
+
