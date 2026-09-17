@@ -65,3 +65,5 @@ It can be used for activities such as:
 ---
 
 ## 🏗️ Lab Architecture
+
+![](
