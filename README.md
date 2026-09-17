@@ -169,6 +169,6 @@ A consistent IP address makes it easier to document the lab and reference the Ka
 
 ---
 
-![](4-Screenshot_netconfig.jpeg)
+![](4-Screenshot_net_config.jpeg)
 
 
