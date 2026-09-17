@@ -256,38 +256,30 @@ After enabling virtualization, the VM started successfully.
 ---
 
 # 💡 What I Learned
+This lab strengthened my understanding of:
 
-Through this project, I learned how to create and configure a virtual environment for cybersecurity practice.
+•Virtualization
 
-The most important concepts I learned include:
+•NAT networking
 
-### 1. NAT vs NAT Network
+•IPv4 addressing
 
-A standard NAT configuration and a NAT Network serve different purposes.
+•CIDR notation
 
-A NAT Network allows multiple VMs connected to the same virtual network to communicate with one another while providing network address translation for external connectivity.
+•Static IP configuration
 
-This makes it useful for building a multi-machine cybersecurity laboratory.
+•Linux network interfaces
 
-### 2. Virtual Machine Networking
+•NetworkManager
 
-I learned how VirtualBox virtual network adapters connect virtual machines to different types of networks and how network configuration affects communication between machines.
+•DNS
 
-### 3. Static IP Configuration
+•Default gateways
 
-I learned how to configure and verify IPv4 addressing, subnet masks, gateways, and DNS settings in Kali Linux.
+•Basic network troubleshooting
 
-### 4. VM Snapshots
 
-I learned that a clean snapshot should be created **before performing risky or experimental activities**.
-
-This provides a known-good recovery point for future cybersecurity exercises.
-
-### 5. Documentation
-
-I learned that documenting commands, configuration, screenshots, problems, and solutions is an important part of a professional cybersecurity project.
-
----
+One important lesson from this exercise was understanding the difference between network connectivity and DNS resolution. Being able to reach 8.8.8.8 confirmed that network connectivity was available even when google.com could not initially be resolved.
 
 # 🔐 Security & Ethical Use
 
@@ -309,6 +301,7 @@ This laboratory is intended strictly for education purposes only.
 # 👤 Author
 
 Sunday John Onyebuchi
+
 Cybersecurity Professional
 
 LinkedIn:https://www.linkedin.com/in/john-onyebuchi-7324223bb?utm_source=share_via&utm_content=profile&utm_medium=member_android
