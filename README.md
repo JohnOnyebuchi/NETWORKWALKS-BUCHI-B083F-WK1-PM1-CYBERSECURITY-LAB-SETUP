@@ -142,3 +142,27 @@ The VM was allocated:
 
 ```text
 RAM: 2048 MB
+```
+
+![](3-Screenshot_Kali_hp.jpeg)
+
+A shared folder was also configured for transferring required files between the host operating system and the Kali VM.
+
+
+
+---
+
+## Step 5. Configure the Kali Linux Network
+
+The Kali Linux network configuration was checked and configured with a consistent IPv4 address.
+
+Example configuration:
+
+```text
+IP Address: 10.0.0.2
+Subnet Mask: 255.255.255.0
+Gateway: 10.0.0.1
+DNS: 8.8.8.8
+```
+
+A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
