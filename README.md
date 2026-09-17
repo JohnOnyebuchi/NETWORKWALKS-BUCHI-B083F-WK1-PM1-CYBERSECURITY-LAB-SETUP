@@ -19,3 +19,47 @@
   <img src="https://img.shields.io/badge/Ethical%20Hacking-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Sunday%20John%20Onyebuchi-C00000?style=flat-square" />
 </p>
+
+---
+
+## 📌 Project Overview
+
+As part of Week 1 of my Cybersecurity Internship with Networkwalks Technologies, I configured a virtual cybersecurity laboratory environment using Oracle VirtualBox and Kali Linux.
+
+The purpose of the lab is to create a controlled environment where cybersecurity tools, network scanning, reconnaissance, vulnerability assessment, and other security-testing activities can be performed safely and repeatedly.
+
+The lab is configured on a private virtual network so that additional machines can be added later and used as targets for authorized security testing.
+
+---
+
+## 🎯 Objectives
+
+The main objectives of this project are to:
+
+- Install and configure Oracle VirtualBox
+- Deploy Kali Linux as the primary security testing machine
+- Configure a NAT Network
+- Create a private 10.0.0.0/24 laboratory network
+- Configure Kali Linux with the required IP address
+- Establish Internet connectivity
+- Configure the virtual machine for future cybersecurity labs
+- Create a restore point using a VirtualBox snapshot
+---
+
+## 🛡️ Purpose of the Lab
+
+The lab provides an isolated and controlled environment for cybersecurity learning and authorized security testing.
+
+It can be used for activities such as:
+
+- Network reconnaissance
+- Port scanning
+- Vulnerability assessment
+- Packet analysis
+- Web security testing
+- Exploitation practice
+- Security-tool experimentation
+
+⚠️ **Important:** This laboratory must only be used for systems that you own or have explicit permission to test. Do not use the lab or its tools to attack unauthorized systems.
+
+---
